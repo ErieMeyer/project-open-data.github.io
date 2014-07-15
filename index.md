@@ -111,8 +111,7 @@ Case studies of novel or best practices from agencies who are leading in open da
 
 6-8 [USAID Crowdsourcing to Open Data] (http://transition.usaid.gov/our_work/economic_growth_and_trade/development_credit/pdfs/2012/USAIDCrowdsourcingCaseStudy.pdf) - A case study that shows how USAID invited the "crowd" to clean and geocode a USAID dataset in order to open and map the data.
 
-
-**For Developers: [View all appendices](http://github.com/project-open-data/) (and source)**
+----------------
 
 ##7. Open Data Engagement
 
@@ -136,4 +135,6 @@ An event where developers, designers, and strategists work in teams to solve pro
 **Goal:** To build relationships with the tech community and to see immediate tools and prototypes.
 
 ###[Templates and instructions](engagement)
+
+**For Developers: [View all appendices](http://github.com/project-open-data/) (and source)**
 
